@@ -1,4 +1,4 @@
-🔧 Components Used
+# 🔧 Components Used
 
 •	2 × NE555 Timer IC
 •	Red, Yellow, Green LEDs
@@ -8,7 +8,7 @@
 •	Breadboard
 •	5–9V power supply
 
-⚡ Working Principle
+# ⚡ Working Principle
 
 The circuit uses two 555 timers:
 Timer 1 – Red to Yellow transition
@@ -23,5 +23,5 @@ Timing is defined by:
 
 By changing resistor or capacitor values, you can adjust how long each LED stays ON.
 
-🧩 Schematic
+# 🧩 Schematic
 
