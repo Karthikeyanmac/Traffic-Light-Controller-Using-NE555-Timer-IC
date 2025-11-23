@@ -3,16 +3,22 @@
 •	2 × NE555 Timer IC
 
 •	Red, Yellow, Green LEDs
+
 •	100KΩ, 47KΩ, 330Ω, 180Ω resistors
+
 •	100µF electrolytic capacitors
+
 •	Jumper wires
+
 •	Breadboard
+
 •	5–9V power supply
 
 # ⚡ Working Principle
 
-The circuit uses two 555 timers:
-Timer 1 – Red to Yellow transition
+- The circuit uses two 555 timers:
+- Timer 1 – Red to Yellow transition
+
 •	Controls the ON duration of the Red LED
 •	When Timer 1 output falls, the Yellow LED is triggered
 Timer 2 – Yellow to Green transition
