@@ -1,6 +1,7 @@
 # 🔧 Components Used
 
 •	2 × NE555 Timer IC
+
 •	Red, Yellow, Green LEDs
 •	100KΩ, 47KΩ, 330Ω, 180Ω resistors
 •	100µF electrolytic capacitors
