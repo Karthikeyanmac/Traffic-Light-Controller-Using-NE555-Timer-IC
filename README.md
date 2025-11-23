@@ -24,4 +24,5 @@ Timing is defined by:
 By changing resistor or capacitor values, you can adjust how long each LED stays ON.
 
 # 🧩 Schematic
+![schematic](https://github.com/Karthikeyanmac/IR-Object-Detection-Circuit/blob/main/Circuit%20diagram.png)\
 
