@@ -35,7 +35,7 @@ By changing resistor or capacitor values, you can adjust how long each LED stays
 ![schematic](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/schematic_traffic_light_555.jpeg)\
 
 # 🛠️ Breadboard Implementation
-![Breadboard](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)\
+![Breadboard](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)
 
 # 🚀 How to Build
 
