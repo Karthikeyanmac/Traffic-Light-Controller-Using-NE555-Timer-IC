@@ -16,14 +16,15 @@
 
 # ⚡ Working Principle
 
-- The circuit uses two 555 timers:
-- Timer 1 – Red to Yellow transition
+The circuit uses two 555 timers:
+ 
+Timer 1 – Red to Yellow transition
+-	Controls the ON duration of the Red LED
+-	When Timer 1 output falls, the Yellow LED is triggered
 
-•	Controls the ON duration of the Red LED
-•	When Timer 1 output falls, the Yellow LED is triggered
 Timer 2 – Yellow to Green transition
-•	Controls Yellow and Green timings
-•	Completes the cycle and repeats continuously
+- Controls Yellow and Green timings
+- Completes the cycle and repeats continuously
 
 Timing is defined by:
               T=0.693(R1+2R2)C
