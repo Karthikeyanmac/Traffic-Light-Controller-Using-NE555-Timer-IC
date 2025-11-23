@@ -37,3 +37,19 @@ By changing resistor or capacitor values, you can adjust how long each LED stays
 # 🛠️ Breadboard Implementation
 ![Breadboard](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)\
 
+# 🚀 How to Build
+
+-	Connect the first 555 timer for Red-Yellow timing
+-	Connect the second 555 timer for Yellow-Green timing
+-	Use 330Ω resistors for LEDs
+-	Power the circuit with 5V–9V
+-	Watch the lights sequence automatically
+
+# 📚 Applications
+
+-	Model traffic lights
+-	Basic embedded/electronics learning
+-	Demonstration for students
+-	Understanding timing circuits
+
+
