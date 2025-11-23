@@ -52,4 +52,7 @@ By changing resistor or capacitor values, you can adjust how long each LED stays
 -	Demonstration for students
 -	Understanding timing circuits
 
+# ✔️ Status
+Working and tested on breadboard
+
 
